@@ -2110,5 +2110,12 @@
     "repo": "Elhary/Obsidian-Minimal-Edge",
     "screenshot": "minimal-edge.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "OneNice",
+    "author": "S.Sunhaloo - P.Roy",
+    "repo": "Sunhaloo/OneNice",
+    "screenshot": "OneNice.png",
+    "modes": ["dark", "light"]
   }
 ]
